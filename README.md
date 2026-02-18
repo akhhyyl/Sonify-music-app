@@ -10,7 +10,7 @@ Sonify does not require sign-in or collect personal information but automaticall
 
 <H5> 1. Information We Collect </H5>
 
-"Caption Hut" Our app utilizes Google AdMob for in-app advertising. AdMob may collect certain information to provide personalized ads, but we, as the app developers, does not collect any personal data.
+"Sonify" Our app utilizes Google AdMob for in-app advertising. AdMob may collect certain information to provide personalized ads, but we, as the app developers, does not collect any personal data.
 
 <H5> 2. How We Use Your Information </H5>
 
@@ -22,7 +22,7 @@ We do not sell your data. We may share it with Google Firebase for analytics or 
 
 <H5> 4. Third-Party Services </H5>
 
-We use Firebase (Google) for anonymous analytics and the android-youtube-player library to stream YouTube videos, which may collect user data as per their respective privacy policies.
+We use Firebase (Google) for anonymous analytics and the flutter-youtube-player library to stream YouTube videos, which may collect user data as per their respective privacy policies.
 
 <H5> 5. Data Security </H5>
 
